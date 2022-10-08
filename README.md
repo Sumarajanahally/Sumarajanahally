@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-I am Suma trying oyt the features in GitHub
+ 
+I am Suma BI engineer. trying out the features in GitHub. 
 
 <!--
 **Sumarajanahally/Sumarajanahally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
